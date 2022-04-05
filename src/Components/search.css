@@ -1,0 +1,21 @@
+.box-search {
+  cursor: pointer;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+@media only screen and (min-width: 600px) {
+  .flexb-img {
+    width: 200px !important;
+  }
+}
+@media only screen and (max-width: 600px) {
+  .flexb-img {
+    width: 150px !important;
+  }
+}
+@media only screen and (max-width: 320px) {
+  .flexb-img {
+    width: 120px !important;
+  }
+}

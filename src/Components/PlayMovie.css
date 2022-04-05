@@ -1,0 +1,10 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap");
+
+.title {
+  letter-spacing: 2px;
+}
+
+.video {
+  padding: 1% 5%;
+  margin-bottom: 5%;
+}

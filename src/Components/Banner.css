@@ -1,0 +1,8 @@
+@media only screen and (min-width: 700px) {
+  .carousel {
+    height: 500px !important;
+  }
+  .banner {
+    padding: 1.5% 1%;
+  }
+}
